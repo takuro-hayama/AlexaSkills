@@ -21,7 +21,7 @@
     "deploy": "aws lambda update-function-code --profile $npm_package_config_aws_profile --region $npm_package_config_aws_region --function-name $npm_package_config_aws_lambda_name --zip-file fileb://\"$(pwd)\"/$npm_package_config_outDir/$npm_package_name.zip --publish"
   },
   "dependencies": {
-    "ask-sdk-core": "^2.0.7",
+    "ask-sdk-core": "^2.14.0",
     "ask-sdk-model": "^1.4.0",
     "aws-sdk": "^2.284.1",
     "typed-rest-client": "^1.0.7"
