@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "ask-sdk-core": "^2.0.7",
-    "ask-sdk-model": "^1.4.0",
+    "ask-sdk-model": "^1.86.0",
     "aws-sdk": "^2.284.1",
     "typed-rest-client": "^1.0.7"
   },
