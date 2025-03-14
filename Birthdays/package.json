@@ -24,7 +24,7 @@
     "ask-sdk-core": "^2.0.7",
     "ask-sdk-model": "^1.4.0",
     "aws-sdk": "^2.284.1",
-    "typed-rest-client": "^1.0.7"
+    "typed-rest-client": "^1.8.11"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.7",
